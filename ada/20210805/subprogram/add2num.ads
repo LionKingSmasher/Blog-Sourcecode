@@ -1,0 +1,1 @@
+function Add2num(One : Integer; Two : Integer) return Integer;
